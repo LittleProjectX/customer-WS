@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662238865586",
+    "project_id": "waroengsederhana-9a073",
+    "storage_bucket": "waroengsederhana-9a073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662238865586:android:1a74066d1ed7d1fa7cc1ab",
+        "android_client_info": {
+          "package_name": "com.littleprojectX.waroengsederhana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIIKgoyxgV7QWK4ukcVhXkFlWc2BY3iLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662238865586:android:66c4fcfae38c0f907cc1ab",
+        "android_client_info": {
+          "package_name": "com.waroengsederhana.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIIKgoyxgV7QWK4ukcVhXkFlWc2BY3iLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
